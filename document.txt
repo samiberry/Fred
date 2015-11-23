@@ -1,0 +1,2 @@
+CLI wiz = me
+hello
